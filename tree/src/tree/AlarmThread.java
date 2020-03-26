@@ -28,7 +28,7 @@ class AlarmThread implements Runnable
         			JFrame f=new JFrame("New One");  
                     final JTextField tf=new JTextField();  
                     tf.setBounds(50,50, 150,20);  
-                    JButton b=new JButton("Jerk There");  
+                    JButton b=new JButton("ALARM ON! (Picture & Instruction)");  
                     b.setBounds(50,100,95,30);  
                     b.addActionListener(new ActionListener(){  
                 public void actionPerformed(ActionEvent e){  
