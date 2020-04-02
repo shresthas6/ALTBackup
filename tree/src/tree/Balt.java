@@ -50,7 +50,7 @@ public class Balt {
     f.getContentPane().add(panel,BorderLayout.NORTH);
     
     GridBagConstraints c = new GridBagConstraints();
-    String filepath = "C:\\Users\\USER\\Desktop\\red.jpg";
+    String filepath = "src\\tree\\red.jpg";
 	BufferedImage img = null;
 	try
 	{
